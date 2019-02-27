@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "37550668501",
+    "firebase_url": "https://dangidongi-6a1f2.firebaseio.com",
+    "project_id": "dangidongi-6a1f2",
+    "storage_bucket": "dangidongi-6a1f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37550668501:android:f182d3155181a468",
+        "android_client_info": {
+          "package_name": "greencode.ir.dongiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37550668501-e6spe981r62dkeqg3l161bj5b461iqvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "greencode.ir.dongiapp",
+            "certificate_hash": "cbc6be4d2a570976f217edfe74cd692e0c5dc7fc"
+          }
+        },
+        {
+          "client_id": "37550668501-e44g82e15fe3s9p8gdiikbie944nu8vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqdh8Qsp-dyEEwkMlPINKeFvo2UkHH7e8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37550668501-e44g82e15fe3s9p8gdiikbie944nu8vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
